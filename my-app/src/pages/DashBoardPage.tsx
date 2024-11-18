@@ -1,6 +1,6 @@
 import { DashNavbar } from "../components/DashNavbar"
 import DataSubmission from "../components/DataSubmission"
-import NavBar from "../components/NavBar"
+// import NavBar from "../components/NavBar"
 
 
 function DashBoardPage() {
